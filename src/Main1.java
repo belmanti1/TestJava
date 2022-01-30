@@ -14,5 +14,7 @@ public class Main1 {
 	public static int multiplication(int a , int b ){
 		return a*b;
 	}
-
+	public static float divsion( float a , float b ){
+		return a/b;
+	}
 }
